@@ -6,7 +6,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](t.me/RM_MAINTENANCE) ഇടുന്നതായിരിക്കും. 
 
-എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [[RM] Group Manager](https://t.me/RM_GMANAGER).
+എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [[RM] Group Manager](https://t.me/RM_GMANAGERBOT).
 
 Marie and I are moderating a [support group](https://t.me/RM_MAINTENANCE), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
@@ -15,7 +15,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Join the [news channel](https://t.me/RM_MAINTENANCE) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/RM_GMANAGER)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/RM_GMANAGERBOT)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
